@@ -11,7 +11,7 @@ Google Guava library给出了一个实现：com.google.common.hash.BloomFilter.
 ## 使用
 ### 创建
 * 创建的时候，需要指定预期的数据条数，也可以指定fpp(如果没有制定fpp，默认为0.03).
-* 只要指定一个类型模板
+* 需要指定一个类型模板
 
 ### 接口
 主要提供：
